@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/designer/medipocket_world/static/css/main.6c0ac728.css",
+    "main.js": "/designer/medipocket_world/static/js/main.159c0408.js",
+    "static/js/787.ac193f96.chunk.js": "/designer/medipocket_world/static/js/787.ac193f96.chunk.js",
+    "static/media/i3.png": "/designer/medipocket_world/static/media/i3.2beb963d81a40be11ee9.png",
+    "static/media/i2.png": "/designer/medipocket_world/static/media/i2.aacdaeeb0aaf7660cde1.png",
+    "static/media/i4.png": "/designer/medipocket_world/static/media/i4.207e4e9b63c7e6ad8697.png",
+    "static/media/i5.png": "/designer/medipocket_world/static/media/i5.6515bede92df82bef7d8.png",
+    "static/media/i1.png": "/designer/medipocket_world/static/media/i1.b47d1e1031b0196d1265.png",
+    "static/media/flag.png": "/designer/medipocket_world/static/media/flag.b5b5b49b4593bb127f40.png",
+    "static/media/doc1.jpg": "/designer/medipocket_world/static/media/doc1.420e5911f445d77d94d6.jpg",
+    "static/media/logo.png": "/designer/medipocket_world/static/media/logo.e7b2c0e0d42d9ccc7ef8.png",
+    "index.html": "/designer/medipocket_world/index.html",
+    "main.6c0ac728.css.map": "/designer/medipocket_world/static/css/main.6c0ac728.css.map",
+    "main.159c0408.js.map": "/designer/medipocket_world/static/js/main.159c0408.js.map",
+    "787.ac193f96.chunk.js.map": "/designer/medipocket_world/static/js/787.ac193f96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0ac728.css",
+    "static/js/main.159c0408.js"
+  ]
+}
